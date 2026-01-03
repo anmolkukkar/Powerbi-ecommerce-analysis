@@ -20,11 +20,13 @@ The project uses e-commerce transactional data stored in CSV files:
 - State-wise sales performance  
 
 ## 🖼 Dashboard Preview
-![Overview](Screenshots/overview.png)  
-![Quarter 1](Screenshots/Quarter1.png)  
-![Quarter 2](Screenshots/Quarter2.png)  
-![Quarter 3](Screenshots/Quarter3.png)  
-![Quarter 4](Screenshots/Quarter4.png)
+
+![Overview](Power%20Bi%20Ecommerce%20Sales%20Dash.../Screenshots/Overview.png)
+![Quarter 1](Power%20Bi%20Ecommerce%20Sales%20Dash.../Screenshots/Quarter1.png)
+![Quarter 2](Power%20Bi%20Ecommerce%20Sales%20Dash.../Screenshots/Quarter2.png)
+![Quarter 3](Power%20Bi%20Ecommerce%20Sales%20Dash.../Screenshots/Quarter3.png)
+![Quarter 4](Power%20Bi%20Ecommerce%20Sales%20Dash.../Screenshots/Quarter4.png)
+
 
 ## 📁 Project Structure
 - `Dashboard/E-commerce_dashboard.pbix` – Power BI dashboard file  
