@@ -22,10 +22,10 @@ The project uses e-commerce transactional data stored in CSV files:
 ## 🖼 Dashboard Preview
 
 ![Overview](Power%20Bi%20Ecommerce%20Sales%20Dashboard/Screenshots/Overview.png)
-![Quarter 1](Power%20Bi%20Ecommerce%20Sales%20Dash.../Screenshots/Quarter1.png)
-![Quarter 2](Power%20Bi%20Ecommerce%20Sales%20Dash.../Screenshots/Quarter2.png)
-![Quarter 3](Power%20Bi%20Ecommerce%20Sales%20Dash.../Screenshots/Quarter3.png)
-![Quarter 4](Power%20Bi%20Ecommerce%20Sales%20Dash.../Screenshots/Quarter4.png)
+![Quarter 1](Power%20Bi%20Ecommerce%20Sales%20Dashboard/Screenshots/Quarter1.png)
+![Quarter 2](Power%20Bi%20Ecommerce%20Sales%20Dashboard/Screenshots/Quarter2.png)
+![Quarter 3](Power%20Bi%20Ecommerce%20Sales%20Dashboard/Screenshots/Quarter3.png)
+![Quarter 4](Power%20Bi%20Ecommerce%20Sales%20Dashboard/Screenshots/Quarter4.png)
 
 
 ## 📁 Project Structure
