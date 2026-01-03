@@ -20,7 +20,7 @@ The project uses e-commerce transactional data stored in CSV files:
 - State-wise sales performance  
 
 ## 🖼 Dashboard Preview
-![Overview](Screenshots/Overview.png)  
+![Overview]("C:\Users\anmol\OneDrive\Desktop\Power Bi Ecommerce Sales Dashboard\Screenshots\Overview.png")  
 ![Quarter 1](Screenshots/Quarter1.png)  
 ![Quarter 2](Screenshots/Quarter2.png)  
 ![Quarter 3](Screenshots/Quarter3.png)  
